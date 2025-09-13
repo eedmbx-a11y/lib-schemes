@@ -1,0 +1,7 @@
+displayName: "LIB-SCHEMES"
+name: "LIB-SCHEME"
+author: "Egor.D"
+description: "This is a library of circuits, and many others"
+version: 1.0
+minGameVersion: 145
+hidden: true
